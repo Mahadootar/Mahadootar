@@ -1,4 +1,5 @@
-Hello my ist Mahad Nur, I lerning to become a Frontend Developer
+Hey 👋
+I'm [Your Name] and I'm currently learning Frontend Development (JavaScript/React). These repos are my practice projects on this journey. Feedback is always welcome!
 
 
 
