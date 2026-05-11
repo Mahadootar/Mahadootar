@@ -1,4 +1,4 @@
-Hallo meine ist Mahad Nur, ich bin developer bei Developer Akademie
+Hello my ist Mahad Nur, I lerning to become a Frontend Developer
 
 
 
